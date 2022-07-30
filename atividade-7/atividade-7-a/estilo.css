@@ -1,0 +1,78 @@
+@charset "UTF-8";
+body {
+    background-color: #fff;
+    font-family: 'Inter', sans-serif; 
+}
+
+.header {
+    width: 1280;
+    height: 120;
+    background-color: #000;
+    font-family: 'Inter', sans-serif;
+}
+
+.title {
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-bottom: 32px;
+    color: #fff;
+    font-family: 'Inter', sans-serif;
+}
+
+.section {
+    font-family: 'Inter', sans-serif;
+}
+
+.subtitle {
+    font-family: 'Inter', sans-serif;
+    color: #000;
+    }
+
+.legend {
+    font-family: 'Inter', sans-serif;
+    width: 1280;
+    height: 281;
+    color: #000;
+    
+}
+
+.input-text {
+    font-family: 'Inter', sans-serif;
+    border: 2px;
+    border-radius: 3px;
+    border-color: #5C8CFF;
+    color: #979797;
+    font-family: Lato, sans-serif;
+}
+
+.input-text2 {
+    font-family: 'Inter', sans-serif;
+    border: 2px;
+    border-radius: 3px;
+    border-color: #5C8CFF;
+    color: #979797;
+    font-family: Lato, sans-serif;
+}
+
+.footer {
+    font-family: 'Inter', sans-serif;
+    width: 1280;
+    height: 95;
+    background-color: #5C8CFF;
+}
+
+.buttom {
+    font-size: 15px;
+    background-color: #FFD702;
+    color: #000;
+    border: 2px;    
+    border-radius: 3px;
+    font-family: 'Inter', sans-serif;
+    }
+
+.span {
+    font-family: 'Inter', sans-serif;
+    width: 164;
+    height: 15;
+    color: #fff;
+}
